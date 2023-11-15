@@ -1,0 +1,5 @@
+/home/kiefer/School/assignments/assignment3/build/CMakeFiles/server.dir
+/home/kiefer/School/assignments/assignment3/build/CMakeFiles/client.dir
+/home/kiefer/School/assignments/assignment3/build/CMakeFiles/format.dir
+/home/kiefer/School/assignments/assignment3/build/CMakeFiles/edit_cache.dir
+/home/kiefer/School/assignments/assignment3/build/CMakeFiles/rebuild_cache.dir
